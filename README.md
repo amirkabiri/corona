@@ -25,4 +25,4 @@ I will link your antivirus repository here.
 thanks for attention.
 
 # Shell Screenshot
-![Shell ScreenShot](https://raw.githubusercontent.com/amirkabiri/corona/master/shell-screen.png "Shell ScreenShot")
+![Shell ScreenShot](https://raw.githubusercontent.com/amirkabiri/corona/master/shell.png "Shell ScreenShot")
