@@ -17,8 +17,12 @@ I wrote this for fun and new experience :)
 * This virus signs any infected php files to increase performance
 * on every execution, it runs and only multiples itself in other php files for 10 seconds (you can change this time)
 * After duplicating itself on all php files, the speed of the site increases
+* when it duplicates itself to other file, it also encrypts itself to base64
 
 # Looking for a Challenge?
 If you are looking for a challenge, create a antivirus with php that scans the infected website and repairs damaged files.
 I will link your antivirus repository here.
 thanks for attention.
+
+# Shell Screenshot
+![Shell ScreenShot](https://raw.githubusercontent.com/amirkabiri/corona/master/shell-screen.png "Shell ScreenShot")
